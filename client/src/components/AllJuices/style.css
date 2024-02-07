@@ -1,0 +1,34 @@
+.juices-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start; /* Adjust as needed */
+  margin: 20px 0px;
+}
+
+.juices-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.juices-list button {
+  border-radius: 10px;
+}
+
+.juice-item {
+  margin: 10px; /* Adjust spacing as needed */
+  padding: 10px;
+  border: 1px solid #ccc; /* Add borders or other styling as needed */
+  width: calc(20% - 10px);
+  text-align: center;
+}
+
+.pagination-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+}

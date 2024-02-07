@@ -1,0 +1,31 @@
+.landing-vapes-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start; /* Adjust as needed */
+  margin: 20px 0px;
+}
+
+.landing-vapes-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.landing-vapes-list button {
+  border-radius: 10px;
+}
+
+.landing-vape-item {
+  margin: 10px; /* Adjust spacing as needed */
+  padding: 10px;
+  border: 1px solid #ccc; /* Add borders or other styling as needed */
+  text-align: center;
+}
+
+.pagination-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+}

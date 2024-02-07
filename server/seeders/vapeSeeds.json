@@ -1,0 +1,242 @@
+[
+  {
+    "brand": "VapeX",
+    "flavor": "Cool Mint",
+    "capacity_mL": 3.5,
+    "battery_life": "650mAh",
+    "nicotine_percentage": 5,
+    "puffs": 300,
+    "price": 23.00,
+    "image": "https://example.com/vapex-cool-mint.jpg"
+  },
+  {
+    "brand": "CloudTech",
+    "flavor": "Fruit Fusion",
+    "capacity_mL": 5,
+    "battery_life": "800mAh",
+    "nicotine_percentage": 3,
+    "puffs": 400,
+    "price": 24.50,
+    "image": "https://example.com/cloudtech-fruit-fusion.jpg"
+  },
+  {
+    "brand": "eVape",
+    "flavor": "Classic Tobacco",
+    "capacity_mL": 4,
+    "battery_life": "700mAh",
+    "nicotine_percentage": 2,
+    "puffs": 350,
+    "price": 22.75,
+    "image": "https://example.com/evape-classic-tobacco.jpg"
+  },
+  {
+    "brand": "SleekVapor",
+    "flavor": "Strawberry Bliss",
+    "capacity_mL": 2.5,
+    "battery_life": "500mAh",
+    "nicotine_percentage": 6,
+    "puffs": 250,
+    "price": 21.80,
+    "image": "https://example.com/sleekvapor-strawberry-bliss.jpg"
+  },
+  {
+    "brand": "MistMaster",
+    "flavor": "Blueberry Burst",
+    "capacity_mL": 4.2,
+    "battery_life": "750mAh",
+    "nicotine_percentage": 4,
+    "puffs": 380,
+    "price": 25.20,
+    "image": "https://example.com/mistmaster-blueberry-burst.jpg"
+  },
+  {
+    "brand": "ZenVape",
+    "flavor": "Vanilla Dream",
+    "capacity_mL": 3,
+    "battery_life": "600mAh",
+    "nicotine_percentage": 3,
+    "puffs": 320,
+    "price": 23.50,
+    "image": "https://example.com/zenvape-vanilla-dream.jpg"
+  },
+  {
+    "brand": "AquaCloud",
+    "flavor": "Mango Tango",
+    "capacity_mL": 4.5,
+    "battery_life": "780mAh",
+    "nicotine_percentage": 5,
+    "puffs": 420,
+    "price": 27.80,
+    "image": "https://example.com/aquacloud-mango-tango.jpg"
+  },
+  {
+    "brand": "FreshFog",
+    "flavor": "Pineapple Paradise",
+    "capacity_mL": 3.8,
+    "battery_life": "720mAh",
+    "nicotine_percentage": 4,
+    "puffs": 390,
+    "price": 26.00,
+    "image": "https://example.com/freshfog-pineapple-paradise.jpg"
+  },
+  {
+    "brand": "SmoothSteam",
+    "flavor": "Watermelon Wave",
+    "capacity_mL": 4.8,
+    "battery_life": "850mAh",
+    "nicotine_percentage": 6,
+    "puffs": 450,
+    "price": 29.75,
+    "image": "https://example.com/smoothsteam-watermelon-wave.jpg"
+  },
+  {
+    "brand": "EliteVapor",
+    "flavor": "Cherry Chill",
+    "capacity_mL": 3.2,
+    "battery_life": "670mAh",
+    "nicotine_percentage": 3,
+    "puffs": 330,
+    "price": 24.00,
+    "image": "https://example.com/elitevapor-cherry-chill.jpg"
+  },
+  {
+    "brand": "TwistedVape",
+    "flavor": "Grape Glitz",
+    "capacity_mL": 4.1,
+    "battery_life": "730mAh",
+    "nicotine_percentage": 5,
+    "puffs": 410,
+    "price": 28.50,
+    "image": "https://example.com/twistedvape-grape-glitz.jpg"
+  },
+  {
+    "brand": "BoldBreeze",
+    "flavor": "Lemon Lime Lush",
+    "capacity_mL": 3.7,
+    "battery_life": "690mAh",
+    "nicotine_percentage": 4,
+    "puffs": 370,
+    "price": 27.00,
+    "image": "https://example.com/boldbreeze-lemon-lime-lush.jpg"
+  },
+  {
+    "brand": "MysticMist",
+    "flavor": "Raspberry Rhapsody",
+    "capacity_mL": 4.3,
+    "battery_life": "770mAh",
+    "nicotine_percentage": 3,
+    "puffs": 430,
+    "price": 26.25,
+    "image": "https://example.com/mysticmist-raspberry-rhapsody.jpg"
+  },
+  {
+    "brand": "EpicCloud",
+    "flavor": "Orange Oasis",
+    "capacity_mL": 3.4,
+    "battery_life": "660mAh",
+    "nicotine_percentage": 4,
+    "puffs": 340,
+    "price": 23.90,
+    "image": "https://example.com/epiccloud-orange-oasis.jpg"
+  },
+  {
+    "brand": "PrimeVape",
+    "flavor": "Cucumber Chill",
+    "capacity_mL": 2.8,
+    "battery_life": "580mAh",
+    "nicotine_percentage": 2,
+    "puffs": 280,
+    "price": 21.50,
+    "image": "https://example.com/primevape-cucumber-chill.jpg"
+  },
+  {
+    "brand": "ChillVapor",
+    "flavor": "Apple Ambrosia",
+    "capacity_mL": 4.6,
+    "battery_life": "800mAh",
+    "nicotine_percentage": 6,
+    "puffs": 440,
+    "price": 30.00,
+    "image": "https://example.com/chillvapor-apple-ambrosia.jpg"
+  },
+  {
+    "brand": "GoldenMist",
+    "flavor": "Hazelnut Heaven",
+    "capacity_mL": 3.1,
+    "battery_life": "670mAh",
+    "nicotine_percentage": 3,
+    "puffs": 320,
+    "price": 24.50,
+    "image": "https://example.com/goldenmist-hazelnut-heaven.jpg"
+  },
+  {
+    "brand": "PurityVape",
+    "flavor": "Peach Pleasure",
+    "capacity_mL": 3.9,
+    "battery_life": "740mAh",
+    "nicotine_percentage": 4,
+    "puffs": 390,
+    "price": 25.75,
+    "image": "https://example.com/purityvape-peach-pleasure.jpg"
+  },
+  {
+    "brand": "VividVapor",
+    "flavor": "Banana Bliss",
+    "capacity_mL": 4.4,
+    "battery_life": "780mAh",
+    "nicotine_percentage": 5,
+    "puffs": 420,
+    "price": 29.00,
+    "image": "https://example.com/vividvapor-banana-bliss.jpg"
+  },
+  {
+    "brand": "CrystalCloud",
+    "flavor": "Coconut Craze",
+    "capacity_mL": 3.3,
+    "battery_life": "650mAh",
+    "nicotine_percentage": 2,
+    "puffs": 310,
+    "price": 22.30,
+    "image": "https://example.com/crystalcloud-coconut-craze.jpg"
+  },
+  {
+    "brand": "ZenithVape",
+    "flavor": "Minty Marvel",
+    "capacity_mL": 5.2,
+    "battery_life": "850mAh",
+    "nicotine_percentage": 6,
+    "puffs": 460,
+    "price": 31.50,
+    "image": "https://example.com/zenithvape-minty-marvel.jpg"
+  },
+  {
+    "brand": "SavorVapor",
+    "flavor": "Chocolate Charm",
+    "capacity_mL": 3.6,
+    "battery_life": "700mAh",
+    "nicotine_percentage": 3,
+    "puffs": 360,
+    "price": 26.80,
+    "image": "https://example.com/savorvapor-chocolate-charm.jpg"
+  },
+  {
+    "brand": "DreamDrip",
+    "flavor": "Coffee Crave",
+    "capacity_mL": 4.7,
+    "battery_life": "810mAh",
+    "nicotine_percentage": 4,
+    "puffs": 430,
+    "price": 29.25,
+    "image": "https://example.com/dreamdrip-coffee-crave.jpg"
+  },
+  {
+    "brand": "TropicBreeze",
+    "flavor": "Mango Madness",
+    "capacity_mL": 4.0,
+    "battery_life": "760mAh",
+    "nicotine_percentage": 5,
+    "puffs": 400,
+    "price": 28.00,
+    "image": "https://example.com/tropicbreeze-mango-madness.jpg"
+  }
+]  

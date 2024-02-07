@@ -1,0 +1,121 @@
+.login-box {
+    width: 90%;
+    background:white;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 8px;
+  }
+
+  .sign-wrap {
+    min-height: 100vh;
+    padding-top: 40px;
+    position: relative;
+    z-index: 10;
+  }
+
+  .sign-wrap h1 {
+    text-align: center;
+    color: black;
+  }
+
+  @keyframes bg-anime {
+    0% {
+      transform: scale(1)
+    }
+    50% {
+      transform: scale(1.5)
+    }
+    100% {
+      transform: scale(1)
+    }
+  }
+
+  .sign-wrap::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    /* background: rgba(0, 0, 0, .2); */
+    z-index: -1;
+  }
+
+  /* .sign-wrap::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: url(https://images.unsplash.com/photo-1579165466814-e646cfa4a3be?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat center;
+    background-size: cover;
+    z-index: -1;
+    transform: scale(1);
+    animation: bg-anime 40s linear infinite;
+  } */
+
+  .login-box input[type="text"],
+  .login-box input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .login-box button {
+    background-color: rgb(32, 112, 252);
+    color: white;
+    padding: 14px 40px;
+    margin: 10px 15px 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    min-width: 200px;
+  }
+
+  .signInBtn-text {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
+
+  .signInBtn-text a {
+    margin-left: 10px;
+  }
+  
+  .login-box button:hover {
+    background-color: #5a94ba;
+  
+  }
+  
+  .login-box a {
+    color: #2b83bf;
+    text-decoration: none;
+  }
+
+.icon {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.alert-box {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  font-weight:bold;
+}
+
+.remember-me {
+  font-size: 1.2rem;
+}
+
+.ant-checkbox {
+  display: flex;
+  align-items: center;
+  height: 28px;
+}

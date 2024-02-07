@@ -1,0 +1,154 @@
+[
+  {
+    "brand": "VapeX",
+    "flavor": "Cool Mint",
+    "size": 3.5,
+    "nicotine_percentage": 5,
+    "price": 23.00,
+    "image": "https://example.com/vapex-cool-mint.jpg"
+  },
+  {
+    "brand": "CloudTech",
+    "flavor": "Fruit Fusion",
+    "size": 5,
+    "nicotine_percentage": 3,
+    "price": 24.50,
+    "image": "https://example.com/cloudtech-fruit-fusion.jpg"
+  },
+  {
+    "brand": "eVape",
+    "flavor": "Classic Tobacco",
+    "size": 4,
+    "nicotine_percentage": 2,
+    "price": 22.75,
+    "image": "https://example.com/evape-classic-tobacco.jpg"
+  },
+  {
+    "brand": "SleekVapor",
+    "flavor": "Strawberry Bliss",
+    "size": 2.5,
+    "nicotine_percentage": 6,
+    "price": 21.80,
+    "image": "https://example.com/sleekvapor-strawberry-bliss.jpg"
+  },
+  {
+    "brand": "MistMaster",
+    "flavor": "Blueberry Burst",
+    "size": 4.2,
+    "nicotine_percentage": 4,
+    "price": 25.20,
+    "image": "https://example.com/mistmaster-blueberry-burst.jpg"
+  },
+  {
+    "brand": "ZenVape",
+    "flavor": "Vanilla Dream",
+    "size": 3,
+    "nicotine_percentage": 3,
+    "price": 23.50,
+    "image": "https://example.com/zenvape-vanilla-dream.jpg"
+  },
+  {
+    "brand": "AquaCloud",
+    "flavor": "Mango Tango",
+    "size": 4.5,
+    "nicotine_percentage": 5,
+    "price": 27.80,
+    "image": "https://example.com/aquacloud-mango-tango.jpg"
+  },
+  {
+    "brand": "FreshFog",
+    "flavor": "Pineapple Paradise",
+    "size": 3.8,
+    "nicotine_percentage": 4,
+    "price": 26.00,
+    "image": "https://example.com/freshfog-pineapple-paradise.jpg"
+  },
+  {
+    "brand": "SmoothSteam",
+    "flavor": "Watermelon Wave",
+    "size": 4.8,
+    "nicotine_percentage": 6,
+    "price": 29.75,
+    "image": "https://example.com/smoothsteam-watermelon-wave.jpg"
+  },
+  {
+    "brand": "EliteVapor",
+    "flavor": "Cherry Chill",
+    "size": 3.2,
+    "nicotine_percentage": 3,
+    "price": 24.00,
+    "image": "https://example.com/elitevapor-cherry-chill.jpg"
+  },
+  {
+    "brand": "TwistedVape",
+    "flavor": "Grape Glitz",
+    "size": 4.1,
+    "nicotine_percentage": 5,
+    "price": 28.50,
+    "image": "https://example.com/twistedvape-grape-glitz.jpg"
+  },
+  {
+    "brand": "BoldBreeze",
+    "flavor": "Lemon Lime Lush",
+    "size": 3.7,
+    "nicotine_percentage": 4,
+    "price": 27.00,
+    "image": "https://example.com/boldbreeze-lemon-lime-lush.jpg"
+  },
+  {
+    "brand": "MysticMist",
+    "flavor": "Raspberry Rhapsody",
+    "size": 4.3,
+    "nicotine_percentage": 3,
+    "price": 26.25,
+    "image": "https://example.com/mysticmist-raspberry-rhapsody.jpg"
+  },
+  {
+    "brand": "EpicCloud",
+    "flavor": "Orange Oasis",
+    "size": 3.4,
+    "nicotine_percentage": 4,
+    "price": 23.90,
+    "image": "https://example.com/epiccloud-orange-oasis.jpg"
+  },
+  {
+    "brand": "PrimeVape",
+    "flavor": "Cucumber Chill",
+    "size": 2.8,
+    "nicotine_percentage": 2,
+    "price": 21.50,
+    "image": "https://example.com/primevape-cucumber-chill.jpg"
+  },
+  {
+    "brand": "ChillVapor",
+    "flavor": "Apple Ambrosia",
+    "size": 4.6,
+    "nicotine_percentage": 6,
+    "price": 30.00,
+    "image": "https://example.com/chillvapor-apple-ambrosia.jpg"
+  },
+  {
+    "brand": "GoldenMist",
+    "flavor": "Hazelnut Heaven",
+    "size": 3.1,
+    "nicotine_percentage": 3,
+    "price": 24.50,
+    "image": "https://example.com/goldenmist-hazelnut-heaven.jpg"
+  },
+  {
+    "brand": "PurityVape",
+    "flavor": "Peach Pleasure",
+    "size": 3.9,
+    "nicotine_percentage": 4,
+    "price": 25.75,
+    "image": "https://example.com/purityvape-peach-pleasure.jpg"
+  },
+  {
+    "brand": "VividVapor",
+    "flavor": "Banana Bliss",
+    "size": 4.4,
+    "nicotine_percentage": 5,
+    "price": 29.00,
+    "image": "https://example.com/vividvapor-banana-bliss.jpg"
+  }
+]
